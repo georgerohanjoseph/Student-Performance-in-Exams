@@ -1,10 +1,14 @@
 # Student-Performance-in-Exams
 
-📖 Data Story: Understanding Student Performance — A Journey Through Key Insights
+#📖 **Data Story: Understanding Student Performance — A Journey Through Key Insights**
+
+
 1️⃣ Introduction
+
 Education is a powerful tool that shapes the future of individuals and communities. By analyzing student performance data, we can uncover hidden patterns, understand the impact of socio-economic factors, and identify areas for improvement. This analysis dives deep into the performance of students across subjects—Math, Reading, and Writing—while exploring the influence of gender, race, parental education, lunch type, and test preparation.
 
 2️⃣ Data Exploration and Key Metrics
+
 The dataset consists of 1000 students and includes the following attributes:
 
 Gender: Male and Female.
@@ -20,6 +24,7 @@ Test Preparation: Completed vs. None.
 Scores: Math, Reading, and Writing.
 
 3️⃣ Key Insights and Visualizations
+
 🎯 1. Gender-Based Performance:
 Males tend to excel in Math, with an average score of 68.7, whereas females score 63.6 on average.
 
@@ -61,7 +66,9 @@ Writing: 75.7
 
 Meanwhile, students with parents having only High School education scored the lowest. This underlines the influence of educational background on student achievement.
 
+
 4️⃣ Data-Driven Recommendations
+
 Focus on Literacy for Males: Targeted reading and writing programs can help bridge the gender gap.
 
 Support for Low-Income Students: Enhanced nutrition and study programs for students with Free/Reduced lunch.
@@ -71,4 +78,5 @@ Test Preparation Initiatives: Expanding access to preparation courses can signif
 Parental Engagement: Workshops and learning opportunities for parents with lower educational backgrounds.
 
 5️⃣ Conclusion
+
 Education is not just about attending classes—it's influenced by home life, nutrition, and support structures. By understanding these patterns, we can build more inclusive and supportive educational environments that enable every student to thrive.
